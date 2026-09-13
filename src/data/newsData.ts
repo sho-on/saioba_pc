@@ -166,4 +166,22 @@ export const newsData: NewsData[] = [
     link: "/podcast",
     linkText: "ポッドキャストページへ",
   },
+  {
+    id: 20,
+    date: "2026/09/09",
+    title: "【お知らせ】映画『フクイラプトル』に劇団員が参加",
+    content: "横川寛人監督の『映画フクイラプトル』に、劇団員の金子レイチェル奈々・小林アスマ・三浦那由多・本山裕也がエキストラとして参加しております。\n映画は2026年末公開予定です。",
+    images: ["/img/news_20.jpg"],
+    link: "https://3yfilm.co.jp/fukuiraptor",
+    linkText: "詳細はこちらから",
+  },
+  {
+    id: 21,
+    date: "2026/09/12",
+    title: "【ドラマ情報】「ウイスキペディア」に寺腰玄が脚本として参加",
+    content: "BSフジ「ウイスキペディア」#136 ドラマパートの脚本を、主宰・寺腰玄が担当いたします。\n放送：9/13(日) 21:30-22:00\n脚本：寺腰玄（劇団さいおうば）",
+    images: ["/img/news_21.jpg"],
+    link: "https://www.bsfuji.tv/whiskypedia/",
+    linkText: "詳細はこちらから",
+  },
 ];
