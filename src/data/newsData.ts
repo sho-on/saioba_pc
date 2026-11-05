@@ -184,4 +184,13 @@ export const newsData: NewsData[] = [
     link: "https://www.bsfuji.tv/whiskypedia/",
     linkText: "詳細はこちらから",
   },
+  {
+    id: 22,
+    date: "2026/11/03",
+    title: "【お知らせ】公式ショートコント「劇団さいおうばの歴史コント」開始！",
+    content: "様々な歴史人物に扮するのは、劇団さいおうばの小林アスマと本山裕也。\n毎週月・水・金、[YouTube](https://www.youtube.com/@gekidansaiouba)、[Instagram](https://www.instagram.com/gekidan_saiouba)などで配信中です！\n\n【スタッフ】\n◼︎ 脚本・映像編集：寺腰玄（劇団さいおうば）\n◼︎ 録音・音源編集：馬詰洋史（劇団さいおうば）\n◼︎ 録音補佐：小林アスマ",
+    images: ["/img/news_22.webp"],
+    link: "https://www.youtube.com/@gekidansaiouba",
+    linkText: "YouTubeチャンネルへ",
+  },
 ];
